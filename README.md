@@ -1,6 +1,8 @@
 # Ollama Llama Model API Deployment with Docker, ECR, and ECS
 
+
 This repository provides a complete setup for deploying an Ollama-powered Llama language model as a containerized FastAPI service on AWS. It leverages Docker for containerization, Amazon Elastic Container Registry (ECR) for image storage, and Amazon Elastic Container Service (ECS) for scalable execution, enabling real-time API-based interactions with the model.
+
 ![alt text](image.png)
 ---
 
